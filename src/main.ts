@@ -10,10 +10,10 @@ if (environment.production) {
 bootstrap(AppComponent,[
    FIREBASE_PROVIDERS,
    defaultFirebase({
-    apiKey: "AIzaSyB1gBhmOSCeo6webO-sR2k3z4CXqip7Mgw",
-    authDomain: "demoapp-ba311.firebaseapp.com",
-    databaseURL: "https://demoapp-ba311.firebaseio.com",
-    storageBucket: "demoapp-ba311.appspot.com",
+    apiKey: "your key",
+    authDomain: "your key",
+    databaseURL: "your key",
+    storageBucket: "your key",
    })
 ]);
 
