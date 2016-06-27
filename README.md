@@ -1,4 +1,4 @@
-# AngulurFire2 Boilplate
+# AngularFire2 Boilplate
 
 `version: 2.0.0-beta.2`
 
@@ -25,4 +25,3 @@ How I did it is cumbersome.
 
  That's it.
 
- 
